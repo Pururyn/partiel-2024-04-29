@@ -24,6 +24,9 @@
     <ClCompile Include="movment.c">
       <Filter>Fichiers sources</Filter>
     </ClCompile>
+    <ClCompile Include="food.c">
+      <Filter>Fichiers sources</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="header.h">
