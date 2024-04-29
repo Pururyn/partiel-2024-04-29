@@ -132,8 +132,9 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
-    <ClCompile Include="init.c" />
     <ClCompile Include="main.c" />
+    <ClCompile Include="movment.c" />
+    <ClCompile Include="snake.c" />
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="header.h" />

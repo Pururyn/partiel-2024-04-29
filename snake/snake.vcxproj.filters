@@ -18,7 +18,10 @@
     <ClCompile Include="main.c">
       <Filter>Fichiers sources</Filter>
     </ClCompile>
-    <ClCompile Include="init.c">
+    <ClCompile Include="snake.c">
+      <Filter>Fichiers sources</Filter>
+    </ClCompile>
+    <ClCompile Include="movment.c">
       <Filter>Fichiers sources</Filter>
     </ClCompile>
   </ItemGroup>
